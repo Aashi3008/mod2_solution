@@ -1,0 +1,30 @@
+*{
+			box-sizing: border-box;
+		}
+		h1{
+			margin-bottom: 15px;
+			text-align: center;
+
+
+		}
+		h2{
+			text-align:center;
+			border:1px solid black;
+			margin-top:0px;
+			padding:0px;
+			position:right;
+			width:33%;
+			float:right;
+			margin-right:0px;
+			clear:left;
+			
+		}
+		p{
+		
+			background-color: green;
+			width:90%;
+			height:60px;
+			margin-right: auto;
+			margin-left: auto;
+	        color:white
+          }
